@@ -17,13 +17,13 @@ No passo-a-passo abaixo, uso alguns "atalhos" não aprendidos na aula, pois cons
 - você pode usar `code .` para abrir o VSCode no clone do diretório remoto ou abrir o diretório na sua IDE de preferência.
 
 ## Criando sua contribuição
-    Agora você está trabalhando com o clone do projeto no seu repositório local.
+Agora você está trabalhando com o clone do projeto no seu repositório local.
 
 - crie uma nova branch com o seu nome e faça o checkout para ela. Você pode fazer as duas coisas com o mesmo comando usando `git checkout -b apresentacao-seu-nome`
 - agora que você está na sua branch crie um arquivo `seu-nome.txt` e inclua um texto falando sobre você e/ou sobre os motivos que te levaram a estudar programação.
 
 ## Trabalhando com a Stagging Area
-    Agora que você criou o arquivo, note que ele está salvo localmente mas precisamos seguir um fluxo específico do Git para poder disponibilizar e salvar este arquivo para o repositório remoto.
+Agora que você criou o arquivo, note que ele está salvo localmente mas precisamos seguir um fluxo específico do Git para poder disponibilizar e salvar este arquivo para o repositório remoto.
 
 
 - Abra o terminal na IDE.
